@@ -1,0 +1,11 @@
+Random Forest Regressor
+Mean: 3.3116444690566356
+Standrd devition: <built-in method std of numpy.ndarray object at 0x000002417FADF870>
+
+DecisionTreeRegressor
+Mean: 4.470264343254572
+Standrd devition: <built-in method std of numpy.ndarray object at 0x000001D3E76DF990>
+
+LinearRegression
+Mean: 5.041645209929544
+Standrd devition: <built-in method std of numpy.ndarray object at 0x0000018DC9267AB0>
